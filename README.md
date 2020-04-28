@@ -5,7 +5,8 @@
 **Este projeto ainda está em desenvolvimento. Não é um produto pronto e ainda não está apto a fabricação em escala. Ainda temos muito trabalho a ser feito, verifique o status do projeto e veja como pode colaborar.**
  
  **[IN PROGRESS]****[IN PROGRESS]****[IN PROGRESS]****[IN PROGRESS]****[IN PROGRESS]**
-  
+
+ ![Logo Project](https://github.com/fluxtronic-medical/Fluxtronic/blob/master/Imagens/Logo.jpg)
  
 ## Porque mais um projeto?
  
