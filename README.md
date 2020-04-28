@@ -50,6 +50,12 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - April 22:
 - April 23:
 - April 24:
+- April 25:
+- April 26:
+- April 27:
+- April 28:
+- April 29:
+
 
 ### Em progresso:
  
@@ -115,23 +121,22 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
  
  
 ## Lista de material (BOM) [IN PROGRESS]
+
+### Mecânica: 
  
-### Lista de cortes + quantidade:
- 
-- IN PROGRESS
- 
+- 1x Fuso DST-LS-10X25-R-ES (140mm)
+- 1X Castanha DST-JFRM-C-01-DS10X25
+
+
 ### Eletrônica: 
  
 - 1x Nema 23 15kg
-- 1x Fuso DST-LS-10X25-R-ES (140mm)
-- 1X Castanha DST-JFRM-C-01-DS10X25
+
 - 1x Arduino uno
 - 1x Driver de motor de passo **(DM322E)**
 - 1x CLP Panasonic FP0R-C16T
 - 2X Módulos de entrada/saída (8 canais)
 - 1x Módulod analógico CLP (AFP0RA42)
-- 20x Parafuso M3 16mm
-- 4x Parafuso M3 12mm 
 - ~~2x Potênciometro 1K~~
 - ~~1x Display 128x64~~
 - 1x Encoder KY040
@@ -139,7 +144,6 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - 1x Sensor de pressão MPX5010dp
 - 1x Sensor de fluxo HAFUHH0050L4AXT
 - 1x Tela Nextion 7pol
-- Fiação
 
 
  ### Itens médicos:
