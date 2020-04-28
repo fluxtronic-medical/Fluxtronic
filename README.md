@@ -176,7 +176,17 @@ Não deixe de ler sobre o assunto e entender melhor sobre como funciona um venti
  
    > É preciso alinhar a expectativa de todos! Estamos trabalhando duro no processo de validação e rápida modificação para um projeto 100% confiável e esperamos ao máximo que isso possa salvar muitas vidas!
 
-Colabore para o rápido avanço do projeto em - [VAKINHA](https://www.vakinha.com.br/vaquinha/acelerar-o-desenvolvimento-do-respirador-mecanico-opensource)
+# Apoiar financeiramente
+
+Para avançar com rapidez precisamos da sua ajuda! Saiba como colaborar com o projeto em - [DOAR](https://www.vakinha.com.br/vaquinha/acelerar-o-desenvolvimento-do-respirador-mecanico-opensource)
+
+# Contatos e redes sociais
+
+* Telegram [Grupo de desenvolvimento](https://t.me/joinchat/PWSd9VVRa-Q0fzXPvgVH4g)
+* Instagram [@fluxtronic](https://www.instagram.com/fluxtronic/)
+* Twitter [Fluxtronic - Respirador Open Source](https://twitter.com/FluxtronicOpen)
+* Site Oficial [Fluxtronic.com.br](https://fluxtronic.com.br/)
+* Imprensa [Fale conosco](https://web.whatsapp.com/send?phone=5547996113022)
 
 # Empresas que apoiam essa causa
 
