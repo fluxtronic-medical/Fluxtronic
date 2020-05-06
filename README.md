@@ -200,7 +200,7 @@ Não deixe de ler sobre o assunto e entender melhor sobre como funciona um venti
 Este projeto detem uma licença para produção, fabricação e desenvolvimento. Para que não hajam problemas no decorrer do tempo, é impresendível que as mesmas sejam respeitadas e seguidas. Para mais informações acesse: 
 [GNU General Public License v3.0](https://github.com/fluxtronic-medical/Fluxtronic/blob/master/LICENSE)
 
-*Tire todas suas dúvidas antes de replicar e desenvolver este projeto*
+*Tire todas suas dúvidas antes de replicar e/ou desenvolver este projeto*
 
 # Apoiar financeiramente
 
