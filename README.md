@@ -128,7 +128,23 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
  
 - 1x Fuso DST-LS-10X25-R-ES (140mm)
 - 1X Castanha DST-JFRM-C-01-DS10X25
+- 1x Acoplamento para motor de passo
+- 1x Patins Mgn12
+- 1x Trilho Mhn12 (180mm)
 
+#### Corte a laser (acrilico)
+
+|       CÓDIGO         | QUANTIDADE|
+|----------------------|-----------|
+|   8003.200.00.01     |    01     |
+|   8003.200.00.02     |    01     |
+|  8003.200.00.02-1    |    01     |
+|   8003.200.00.03     |    01     |
+|   8003.200.00.04     |    01     |
+|   8003.200.00.05     |    01     |
+|   8003.200.00.06     |    01     |
+|   8003.200.00.07     |    01     |
+|   8003.300.00.01     |    01     |
 
 ### Eletrônica: 
  
