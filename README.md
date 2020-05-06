@@ -12,7 +12,8 @@
 ## Porque mais um projeto?
  
 Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimento, pensando principalmente nas matérias primas e itens disponíveis para fabricação dentro do Brasil que são de fácil acesso. Acreditamos que esse conceito **depois de validado** possa ser replicado com o menor tempo de fabricação e com menor custo comparado a outros projetos. 
- 
+
+  ![Logo Project](https://github.com/fluxtronic-medical/Fluxtronic/blob/master/Imagens/render_01.jpeg)
 # Status
  
 - March 20-24: Testes mecânicos 
