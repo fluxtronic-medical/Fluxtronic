@@ -18,14 +18,14 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
  
 - March 20-24: Testes mecânicos 
 - March 24: Adaptação para NEMA 23 e ajustes para maior rigidez da estrutura.
-- March 25: Testes de fluxo com NEMA 23 e progrmação do CLP.
+- March 25: Testes de fluxo com NEMA 23 e programação do CLP.
 - March 26: Programação do sistema de telemetria e controle de informações na IHM.
 - March 27: Teste intenso do sistema e fadiga do equipamento
 - March 28: Instalação do sensor MPX 2010 e teste de pressão
 - March 29: Programação do sistema de falhas por pressão e IHM display 128x64
 - March 30: Junção dos programas e limpeza do código + ~~Aferição de fluxo e pressão com equipamento de calibração~~
 - March 31: Testes de alarme junto ao sistema de sensoriamento
-- April 01: Liagaçaõ das válvulas e controle via CLP
+- April 01: Liagação das válvulas e controle via CLP
 - April 02: Adicionar módulo analógico CLP e comunicar via arduino
 - April 03: Configuração dos equipamentos de medição para aferir o sistema + Programação CLP entrada analógica
 - April 04: Migração do firmware para plataforma ESP32 | Teste e análise de fluxo
@@ -38,7 +38,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - April 11: Debug IHM/arduino (comunicação serial) + adaptação válvula Peep
 - April 12: Testes de sensoriamento e alarme + Mapeamento das variáveis
 - April 13: Calibração da curva de respiração 
-- April 14: Video explicativo do sistema + avaliação Dr. Glauco Westphal
+- April 14: Vídeo explicativo do sistema + avaliação Dr. Glauco Westphal
 
 **ALTERAÇÃO DO SISTEMA MECÂNICO E ABANDONO DO ACIONAMENTO DE AMBU**
 
@@ -70,7 +70,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [x] Criação da interface (espaço para 2 potenciômetros e possível tela para sensor de fluxo)
 - [x] Levantamento de sensorização do sistema (qual sensor utilizar?)
 - [x] Realizar testes intensivos para identificar pontos críticos nas partes de acrílico
-- [x] Teste com válvulas solenoides para parada de emergência do sistema
+- [x] Teste com válvulas solenóides para parada de emergência do sistema
 - [x] Criação da case eletrônica
 - [x] Programação CLP para leitura analógica
 - [ ] ~~Controle PID do motor via CLP~~
@@ -80,8 +80,8 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [x] Testar MPX5010  (*06 April - Validado*)
 - [x] Desenhar ligação eletrônica (Fritzing)
 - [x] Armazenar os valores nas variaveis quando retornar as configurações
-- [x] Corrigir bug, que faz imprimir a tela 4 antes da tela 5 quando entra em alarme de pressao pulmonar
-- [x] Imprimir o valor máximo quando rotaciona o encoder no sentido anti-horario na posicao minima
+- [x] Corrigir bug, que faz imprimir a tela 4 antes da tela 5 quando entra em alarme de pressão pulmonar
+- [x] Imprimir o valor máximo quando rotaciona o encoder no sentido anti-horário na posição mínima
 - [x] Implementar saída analogica para controle de velocidade de avanço
 - [x] Implementar saída analogica para controle de velocidade de recuo
 - [x] Controle da curva de respiração 
@@ -89,7 +89,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 
 ### Pendente:
 
-- [ ] Desligar as valvulas de inspiração/expiracao e ligar a valvula de backup quando estiver em pressao pulmonar alta
+- [ ] Desligar as válvulas de inspiração/expiração e ligar a válvula de backup quando estiver em pressão pulmonar alta
 - [ ] Criação, validação e fabricação de PCB para entrada dos sensores e saída do motor
 - [ ] Levantamento de fornecedores e estoques no Brasil dos itens de projeto
 - [ ] Plotar gráfico de volume IHM
@@ -107,7 +107,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [ ] Diagrama de funcionamento do sistema
 - [ ] Reunir materiais de estudo em pasta compartilhada
 
-# Requsitos principais
+# Requisitos principais
  
 1. Be reliable. It must work continuously without failure (100% duty cycle) for blocks of 14days — 24 hours a day. If necessary, the machine may be replaced after each block of 14 days x 24 hours a day use.
  
@@ -130,9 +130,9 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - 1X Castanha DST-JFRM-C-01-DS10X25
 - 1x Acoplamento para motor de passo
 - 1x Patins Mgn12
-- 1x Trilho Mhn12 (180mm)
+- 1x Trilho Mgn12 (180mm)
 
-#### Corte a laser (acrilico)
+#### Corte a laser (acrílico)
 
 |       CÓDIGO         | QUANTIDADE | Espessura |
 |----------------------|------------|-----------|
@@ -154,7 +154,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - 1x Driver de motor de passo **(DM322E)**
 - 1x CLP Panasonic FP0R-C16T
 - 2X Módulos de entrada/saída (8 canais)
-- 1x Módulod analógico CLP (AFP0RA42)
+- 1x Módulo analógico CLP (AFP0RA42)
 - ~~2x Potênciometro 1K~~
 - ~~1x Display 128x64~~
 - 1x Encoder KY040
@@ -166,7 +166,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 
  ### Itens médicos:
 
- - 1x Adaptador para conexão válcula PEEP
+ - 1x Adaptador para conexão válvula PEEP
  - 3x tubo traqueia
  - 1x Válvula para ambu PEEP (5-20cmH20)
  - 2x Conector "Y" 22mx15F
@@ -185,7 +185,7 @@ Não deixe de ler sobre o assunto e entender melhor sobre como funciona um venti
 - [ANVISA By Flavia G. R. Ibagy Pacheco](https://drive.google.com/open?id=1CEK9-QgvEUpADV46hfBZcp89tQX-wVuy)
 
  
-# Creditos
+# Créditos
 
 * Helbert Paranhos [@HPparanhos](github.com/HPparanhos) - SC
 * Fellipy Kuhne  [@kinife](https://github.com/kinife) - SC
@@ -197,7 +197,7 @@ Não deixe de ler sobre o assunto e entender melhor sobre como funciona um venti
 
 # Licença
 
-Este projeto detem uma licença para produção, fabricação e desenvolvimento. Para que não hajam problemas no decorrer do tempo, é impresendível que as mesmas sejam respeitadas e seguidas. Para mais informações acesse: 
+Este projeto detém uma licença para produção, fabricação e desenvolvimento. Para que não hajam problemas no decorrer do tempo, é imprescindível que as mesmas sejam respeitadas e seguidas. Para mais informações acesse: 
 [GNU General Public License v3.0](https://github.com/fluxtronic-medical/Fluxtronic/blob/master/LICENSE)
 
 *Tire todas suas dúvidas antes de replicar e/ou desenvolver este projeto*
