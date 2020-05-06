@@ -196,6 +196,7 @@ Não deixe de ler sobre o assunto e entender melhor sobre como funciona um venti
    > É preciso alinhar a expectativa de todos! Estamos trabalhando duro no processo de validação e rápida modificação para um projeto 100% confiável e esperamos ao máximo que isso possa salvar muitas vidas!
 
 # Apoiar financeiramente
+# Apoiar financeiramente
 
 Para avançar com rapidez precisamos da sua ajuda! Saiba como colaborar com o projeto em - [DOAR](https://www.vakinha.com.br/vaquinha/acelerar-o-desenvolvimento-do-respirador-mecanico-opensource)
 
