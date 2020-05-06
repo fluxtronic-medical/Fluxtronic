@@ -205,7 +205,6 @@ Para avançar com rapidez precisamos da sua ajuda! Saiba como colaborar com o pr
 - Nidec (Embraco)
 - TEX Equipamentos Eletrônicos
 - Termica Solutions
-- Perini Business Park
 - Tere.Red
 - Ocotea Filmes
 - Microjunta
