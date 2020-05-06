@@ -209,7 +209,8 @@ Para avançar com rapidez precisamos da sua ajuda! Saiba como colaborar com o pr
 
 # Empresas que apoiam essa causa
 
-- AMS Acrílicos
+- AMS Group
+- 3D Acrilicos
 - Pollux Automation
 - Neoyama
 - Bold acrílicos
@@ -226,7 +227,7 @@ Para avançar com rapidez precisamos da sua ajuda! Saiba como colaborar com o pr
 - Ocotea Filmes
 - Microjunta
 - SR Borrachas
-- Victor Vision
 - Andre Toledo
+
 
 
