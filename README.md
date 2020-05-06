@@ -2,7 +2,7 @@
  
 # FLUXTRONIC
  
-## ATENÇÃO! ANTES DE COMPARTILHAR OU REALIZAR DOWNLOADS, ESTEJA CIENTE DOS SEGUINTES ITENS:
+## ⚠️ ATENÇÃO! ANTES DE COMPARTILHAR OU REALIZAR DOWNLOADS, ESTEJA CIENTE DOS SEGUINTES ITENS:
  
 **Este projeto ainda está em desenvolvimento. Não é um produto pronto e ainda não está apto a fabricação em escala. Ainda temos muito trabalho a ser feito, verifique o status do projeto e veja como pode colaborar.**
  
@@ -59,7 +59,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - April 29:
 
 
-### Em progresso:
+###👉 Em progresso:
  
 - [x] Iniciar testes de controle de ciclo via potenciômetro
 - [x] Alteração de design para junção da fixação de guia
@@ -87,7 +87,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [x] Controle da curva de respiração 
 
 
-### Pendente:
+###👉 Pendente:
 
 - [ ] Desligar as válvulas de inspiração/expiração e ligar a válvula de backup quando estiver em pressão pulmonar alta
 - [ ] Criação, validação e fabricação de PCB para entrada dos sensores e saída do motor
@@ -175,7 +175,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
  - 1x Filtro HEPA
 
 
-# Material para estudo
+#  Material para estudo
  
 Não deixe de ler sobre o assunto e entender melhor sobre como funciona um ventilador, quais suas principais funções em relação a ventilação de pacientes com COVID-19 e também alguns editais sobre:
  
