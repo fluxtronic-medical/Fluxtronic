@@ -1,4 +1,4 @@
- ![Logo Project](https://github.com/fluxtronic-medical/Fluxtronic/blob/master/Imagens/Logo.jpg)
+ ![Logo Project](https://github.com/fluxtronic-medical/Fluxtronic/blob/master/Imagens/Tela.jpeg)
  
 # FLUXTRONIC
  
