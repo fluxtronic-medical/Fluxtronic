@@ -2,7 +2,7 @@
  
 # FLUXTRONIC
  
-## ⚠️ ATENÇÃO! ANTES DE COMPARTILHAR OU REALIZAR DOWNLOADS, ESTEJA CIENTE DOS SEGUINTES ITENS:
+## ⚠️  ATENÇÃO! ANTES DE COMPARTILHAR OU REALIZAR DOWNLOADS, ESTEJA CIENTE DOS SEGUINTES ITENS:
  
 **Este projeto ainda está em desenvolvimento. Não é um produto pronto e ainda não está apto a fabricação em escala. Ainda temos muito trabalho a ser feito, verifique o status do projeto e veja como pode colaborar.**
  
@@ -59,7 +59,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - April 29:
 
 
-###👉 Em progresso:
+### 👉 Em progresso:
  
 - [x] Iniciar testes de controle de ciclo via potenciômetro
 - [x] Alteração de design para junção da fixação de guia
@@ -87,7 +87,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [x] Controle da curva de respiração 
 
 
-###👉 Pendente:
+### 👉 Pendente:
 
 - [ ] Desligar as válvulas de inspiração/expiração e ligar a válvula de backup quando estiver em pressão pulmonar alta
 - [ ] Criação, validação e fabricação de PCB para entrada dos sensores e saída do motor
@@ -195,14 +195,14 @@ Não deixe de ler sobre o assunto e entender melhor sobre como funciona um venti
  
    > É preciso alinhar a expectativa de todos! Estamos trabalhando duro no processo de validação e rápida modificação para um projeto 100% confiável e esperamos ao máximo que isso possa salvar muitas vidas!
 
-#✅ Licença
+# ✅ Licença
 
 Este projeto detém uma licença para produção, fabricação e desenvolvimento. Para que não hajam problemas no decorrer do tempo, é imprescindível que as mesmas sejam respeitadas e seguidas. Para mais informações acesse: 
 [GNU General Public License v3.0](https://github.com/fluxtronic-medical/Fluxtronic/blob/master/LICENSE)
 
 *Tire todas suas dúvidas antes de replicar e/ou desenvolver este projeto*
 
-#💰 Apoiar financeiramente
+# 💰 Apoiar financeiramente
 
 Para avançar com rapidez precisamos da sua ajuda! Saiba como colaborar com o projeto em - [DOAR](https://www.vakinha.com.br/vaquinha/acelerar-o-desenvolvimento-do-respirador-mecanico-opensource)
 
