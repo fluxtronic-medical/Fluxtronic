@@ -195,14 +195,14 @@ Não deixe de ler sobre o assunto e entender melhor sobre como funciona um venti
  
    > É preciso alinhar a expectativa de todos! Estamos trabalhando duro no processo de validação e rápida modificação para um projeto 100% confiável e esperamos ao máximo que isso possa salvar muitas vidas!
 
-# Licença
+#✅ Licença
 
 Este projeto detém uma licença para produção, fabricação e desenvolvimento. Para que não hajam problemas no decorrer do tempo, é imprescindível que as mesmas sejam respeitadas e seguidas. Para mais informações acesse: 
 [GNU General Public License v3.0](https://github.com/fluxtronic-medical/Fluxtronic/blob/master/LICENSE)
 
 *Tire todas suas dúvidas antes de replicar e/ou desenvolver este projeto*
 
-# Apoiar financeiramente
+#💰 Apoiar financeiramente
 
 Para avançar com rapidez precisamos da sua ajuda! Saiba como colaborar com o projeto em - [DOAR](https://www.vakinha.com.br/vaquinha/acelerar-o-desenvolvimento-do-respirador-mecanico-opensource)
 
