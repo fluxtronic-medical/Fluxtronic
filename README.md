@@ -7,7 +7,14 @@
 **Este projeto ainda está em desenvolvimento. Não é um produto pronto e ainda não está apto a fabricação em escala. Ainda temos muito trabalho a ser feito, verifique o status do projeto e veja como pode colaborar.**
  
  **[IN PROGRESS]****[IN PROGRESS]****[IN PROGRESS]****[IN PROGRESS]****[IN PROGRESS]**
+-----------------------------------------------------------------------------------------------------------------
 
+### Video de funcionamento do equipamento
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dyl--hyxr6U&feature=youtu.be">
+    <img alt="Play Introduction Video" Imagens="./Youtube_video.jpg" height="320">
+  </a>
+</p>
 
 ## Porque mais um projeto?
  
