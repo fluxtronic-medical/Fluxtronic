@@ -10,11 +10,8 @@
 -----------------------------------------------------------------------------------------------------------------
 
 ### Video de funcionamento do equipamento
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=dyl--hyxr6U&feature=youtu.be">
-    <img alt="Play Introduction Video" Imagens=".Imagens/Youtube_video.jpg" height="320">
-  </a>
-</p>
+
+[![Watch the video](https://github.com/fluxtronic-medical/Fluxtronic/blob/master/Imagens/Youtube_video.jpg)](https://www.youtube.com/watch?v=dyl--hyxr6U&feature=youtu.be)
 
 ## Porque mais um projeto?
  
