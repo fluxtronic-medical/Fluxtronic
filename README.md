@@ -98,7 +98,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [ ] Levantamento de fornecedores e estoques no Brasil dos itens de projeto
 - [ ] Plotar gráfico de volume IHM
 - [ ] Calibração geral dos sensores (intervalos mínimos e máximos)
-- [ ] Implementação do sensor de fluxo
+- [ ] Implementação do sensor de fluxo 
 - [ ] Instalar nova mecânica (Atuador enclausurado)
 - [ ] Validação das válvulas de controle I/E
 - [ ] Teste do sistema blender (2-100-6016 | Oxigel)
@@ -110,6 +110,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [ ] Desenvolvimento material gráfico vista explodida + apresentação
 - [ ] Diagrama de funcionamento do sistema
 - [ ] Reunir materiais de estudo em pasta compartilhada
+- [ ] Teste do sensor de fluxo - [ Ventilator Inline Sensor Package ](https://hackaday.io/project/170622-visp-ventilator-inline-sensor-package)
 
 # Requisitos principais
  
