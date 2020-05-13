@@ -91,18 +91,19 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [x] Controle da curva de respiração 
 - [x] Instalar nova mecânica (Atuador enclausurado)
 - [x] Reunir materiais de estudo em pasta compartilhada
+- [x] ~~Desligar as válvulas de inspiração/expiração e ligar a válvula de backup quando estiver em pressão pulmonar alta~~
+- [ ] Desenvolvimento do Buffer de mistura 
+- [x] ~~Teste do sistema blender (2-100-6016 | Oxigel)~~
+
 
 ### 👉 Pendente:
 
-- [ ] Desligar as válvulas de inspiração/expiração e ligar a válvula de backup quando estiver em pressão pulmonar alta
 - [ ] Criação, validação e fabricação de PCB para entrada dos sensores e saída do motor
 - [ ] Levantamento de fornecedores e estoques no Brasil dos itens de projeto
 - [ ] Plotar gráfico de volume IHM
 - [ ] Calibração geral dos sensores (intervalos mínimos e máximos)
 - [ ] Implementação do sensor de fluxo 
 - [ ] Validação das válvulas de controle I/E
-- [ ] Teste do sistema blender (2-100-6016 | Oxigel)
-- [ ] Desenvolvimento do Buffer de mistura 
 - [ ] Sensor de oxigênio (Célula de oxigênio)
 - [ ] Mapeamento do sistema de filtragem
 - [ ] Fluxograma de controle
