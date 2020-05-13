@@ -162,10 +162,12 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - ~~2x Potênciometro 1K~~
 - ~~1x Display 128x64~~
 - 1x Encoder KY040
-- 1x Fonte 12V 5A
+- 1x Fonte 24V 5A
 - 1x Sensor de pressão MPX5010dp
 - 1x Sensor de fluxo HAFUHH0050L4AXT
 - 1x Tela Nextion 7pol
+- 1x Sensor fim de curso mecânica
+- 1x Fita LED (RGB)
 
 
  ### Itens médicos:
