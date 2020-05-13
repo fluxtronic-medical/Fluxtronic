@@ -130,7 +130,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 
 ### Mecânica: 
  
-- 1x Fuso DST-LS-10X25-R-ES (140mm)
+- 1x Fuso DST-LS-10X25-R-ES (160mm)
 - 1X Castanha DST-JFRM-C-01-DS10X25
 - 1x Acoplamento para motor de passo
 - 1x Patins Mgn12
