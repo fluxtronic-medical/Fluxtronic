@@ -184,6 +184,7 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 Não deixe de ler sobre o assunto e entender melhor sobre como funciona um ventilador, quais suas principais funções em relação a ventilação de pacientes com COVID-19 e também alguns editais sobre:
  
 - [Rapidly manufactured ventilator system specification](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification)
+- [Specification for ventilators to be used in UK hospitals during the coronavirus (COVID-19) outbreak](https://www.gov.uk/government/publications/specification-for-ventilators-to-be-used-in-uk-hospitals-during-the-coronavirus-covid-19-outbreak)
 - [Frontier Tech 4 COVID Action: emerging market ventilation systems](https://medium.com/frontier-technology-livestreaming/frontier-tech-4-covid-action-emerging-market-ventilation-systems-9c818cb46189)
 - [Positive Ending Expiratory Pressure Valve](https://grabcad.com/library/positive-ending-expiratory-pressure-valve-1)
 - [ANVISA By Flavia G. R. Ibagy Pacheco](https://drive.google.com/open?id=1CEK9-QgvEUpADV46hfBZcp89tQX-wVuy)
