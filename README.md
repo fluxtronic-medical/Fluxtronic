@@ -89,7 +89,8 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [x] Implementar saída analogica para controle de velocidade de avanço
 - [x] Implementar saída analogica para controle de velocidade de recuo
 - [x] Controle da curva de respiração 
-
+- [x] Instalar nova mecânica (Atuador enclausurado)
+- [x] Reunir materiais de estudo em pasta compartilhada
 
 ### 👉 Pendente:
 
@@ -99,7 +100,6 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [ ] Plotar gráfico de volume IHM
 - [ ] Calibração geral dos sensores (intervalos mínimos e máximos)
 - [ ] Implementação do sensor de fluxo 
-- [ ] Instalar nova mecânica (Atuador enclausurado)
 - [ ] Validação das válvulas de controle I/E
 - [ ] Teste do sistema blender (2-100-6016 | Oxigel)
 - [ ] Desenvolvimento do Buffer de mistura 
@@ -109,7 +109,6 @@ Criamos outra vertente de projeto, diferente dos que já estão em desenvolvimen
 - [ ] Desenvolvimento do manual de operação
 - [ ] Desenvolvimento material gráfico vista explodida + apresentação
 - [ ] Diagrama de funcionamento do sistema
-- [ ] Reunir materiais de estudo em pasta compartilhada
 - [ ] Teste do sensor de fluxo - [ Ventilator Inline Sensor Package ](https://hackaday.io/project/170622-visp-ventilator-inline-sensor-package)
 
 # Requisitos principais
