@@ -1,0 +1,8 @@
+**/.DS_Store
+*~
+*.swp
+*.tmp
+*.aux
+*.log
+*.out
+node_modules
